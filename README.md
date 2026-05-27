@@ -88,20 +88,6 @@ project-folder/
 
 ---
 
-# How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/chrono-glow.git
-```
-
-2. Open the project folder
-
-3. Run `index.html` in your browser
-
----
-
 # Future Improvements
 
 Some planned enhancements:
